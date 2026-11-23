@@ -1,4 +1,4 @@
-#### AICTE — EduSkills Virtual Internship (8 Weeks)
+## AICTE — EduSkills Virtual Internship (8 Weeks)
 
 ### Domain — Google AI-ML
 
